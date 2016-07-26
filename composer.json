@@ -1,10 +1,10 @@
 {
-    "name": "socialiteproviders/weixin-web",
+    "name": "socialiteproviders/weixin-web-fix",
     "description": "Weixin-Web OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "xyxu",
-        "email": "techxu@gmail.com"
+        "name": "triks",
+        "email": "lqtriks@gmail.com"
     }],
     "require": {
         "php": "^5.5 || ^7.0",
