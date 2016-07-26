@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/weixin-web-fix",
+    "name": "lqtrikssocialite/weixin-web-fix",
     "description": "Weixin-Web OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
